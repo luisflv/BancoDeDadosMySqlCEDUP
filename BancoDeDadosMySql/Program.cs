@@ -15,6 +15,7 @@ namespace BancoDeDadosMySql
         {
             //ESTABELECENDO A CONEXÃO COM O BANCO ANTES DE INICIAR
             Conexao();
+            Console.WriteLine(  );
 
             Console.WriteLine(@"
 ░██████╗██╗░██████╗████████╗  ░█████╗░░█████╗░██████╗░  ░█████╗░███╗░░██╗██╗███╗░░░███╗░█████╗░██╗░░░░░
